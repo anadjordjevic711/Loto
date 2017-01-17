@@ -1,0 +1,18 @@
+.colones {
+	float: left;
+	text-align: center;
+	background: red;
+	color: white;
+
+}
+
+.cell-button{
+	width: 33%;
+	color: red;
+	background-color: white;
+}
+
+.checked {
+	background: red;
+	color: #fff;
+}
